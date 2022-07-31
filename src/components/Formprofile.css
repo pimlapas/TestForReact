@@ -1,0 +1,15 @@
+
+.form-control {
+    background-color: transparent;
+    margin-bottom: 5%;
+    display: block;
+    border: black;
+    border-radius: 2px;
+
+}
+
+.btn{
+    background-color: black;
+    width: 100%;
+    color: aliceblue;
+}
